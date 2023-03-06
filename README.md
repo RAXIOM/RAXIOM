@@ -1,6 +1,8 @@
+# RAXIOM
+
 ## Introduction
 
-Our web service is designed to detect Radiogenomic Brain Tumor type RSNA-MICCAI on DICOM images of patients using AI. Radiogenomics is a field of medical research that combines imaging features with genomic data to identify genetic mutations in tumors. The RSNA-MICCAI dataset is a publicly available dataset that contains annotated brain tumor images, which can be used for training and testing machine learning algorithms.
+RAXIOM is designed to detect Radiogenomic Brain Tumor type RSNA-MICCAI on DICOM images of patients using AI. Radiogenomics is a field of medical research that combines imaging features with genomic data to identify genetic mutations in tumors. The RSNA-MICCAI dataset is a publicly available dataset that contains annotated brain tumor images, which can be used for training and testing machine learning algorithms.
 
 ## Features
 
